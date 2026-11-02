@@ -52,9 +52,9 @@ export const BUSINESS_CONFIG: BusinessConfig = {
   addressDisclaimer: "Provisional listing location. Exact shop/godown premises to be confirmed by owner.",
   googleMapsUrl: "https://maps.google.com/?q=Mubarak+Enterprises+Coimbatore+Tamil+Nadu",
   googleMapsEmbedQuery: "Coimbatore+Tamil+Nadu+Mubarak+Enterprises",
-  phoneDisplay: "+91 98420 12345 (Provisional Desk)",
-  phoneRaw: "+919842012345",
-  whatsappNumber: "919842012345", // Format: 91XXXXXXXXXX (provisional staging number)
+  phoneDisplay: "+91 99449 19969",
+  phoneRaw: "+919944919969",
+  whatsappNumber: "919944919969", // Format: 91XXXXXXXXXX
   email: "enquiries@mubarakenterprises.in",
   workingHours: {
     weekdays: "9:00 AM – 7:30 PM (Provisional)",

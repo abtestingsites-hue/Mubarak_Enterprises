@@ -65,9 +65,9 @@ export const BUSINESS_CONFIG: BusinessConfig = {
   postalCode: "641001",
   addressDisplay: "Coimbatore Industrial Area, Tamil Nadu 641001, India",
   googleMapsUrl: "https://maps.google.com/?q=Mubarak+Enterprises+Coimbatore+Tamil+Nadu",
-  phoneDisplay: "+91 98420 12345",   // Replace with verified shop phone
-  phoneRaw: "+919842012345",
-  whatsappNumber: "919842012345",    // Country code + 10 digits (digits only)
+  phoneDisplay: "+91 99449 19969",
+  phoneRaw: "+919944919969",
+  whatsappNumber: "919944919969",    // Country code + 10 digits (digits only)
   email: "enquiries@mubarakenterprises.in",
   workingHours: {
     weekdays: "9:00 AM – 7:30 PM",
